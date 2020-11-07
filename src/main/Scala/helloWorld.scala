@@ -1,3 +1,3 @@
-class helloWorld extends App {
-	println("This is Shivam")
+object helloWorld extends App {
+	println("Hello World!")
 }
